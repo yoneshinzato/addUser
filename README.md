@@ -1,2 +1,2 @@
 # addUser
-Simple project using Javascript and Bootstrap
+Simple project using Javascript es5/partial es6 and Bootstrap
